@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sanchitkasar
-- 👀 I’m interested in Artifial intelligence
+- 👀 I’m interested in Artificial intelligence
 - 🌱 I’m currently working as Website Developer
 - 💞️ I’m looking to collaborate on LInkdin
 - 📫 How to reach me via linkdin
